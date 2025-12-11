@@ -144,26 +144,26 @@ Un **AUC > 0.85** indique un modèle performant.
 
 ##  **8.  Visualisations**
 
-### 9.1 Distribution de l'âge selon la présence de maladie
+### 8.1 Distribution de l'âge selon la présence de maladie
 <img width="860" height="482" alt="image" src="https://github.com/user-attachments/assets/a6fd98fd-772c-4569-a789-b05d17428a39" />
 
 **Interprétation :**
 Le graphique montre que les personnes atteintes de maladie cardiaque sont majoritairement âgées de 45 à 60 ans, tandis que les individus sains sont davantage concentrés autour de 55 à 65 ans. Cela indique que le risque de maladie cardiaque apparaît plus fréquemment dès la cinquantaine dans ce jeu de données..
 
-### 9.2 Matrice de Confusion
+### 8.2 Matrice de Confusion
 <img width="528" height="479" alt="image" src="https://github.com/user-attachments/assets/1809da16-7032-4b96-bac4-1ad53b028a15" />
 
 **Interprétation :**
 La matrice de confusion montre que le modèle Random Forest présente d’excellentes performances de classification. Sur les individus réellement non malades, 98 ont été correctement classés et seulement 4 ont été mal prédits comme malades. Du côté des individus réellement atteints de la maladie, 101 ont été identifiés correctement, tandis que 2 seulement ont été classés à tort comme non malades. Ces résultats indiquent un taux d’erreur très faible, aussi bien pour les faux positifs que pour les faux négatifs. Globalement, la matrice confirme la grande précision du modèle dans la détection de la maladie cardiaque.
 
-### 9.3 Courbe ROC
+### 8.3 Courbe ROC
 <img width="684" height="583" alt="image" src="https://github.com/user-attachments/assets/b175cad1-2bfc-40ce-b693-7d46f75cd4e7" />
 
 
 **Interprétation :**
 La courbe ROC obtenue montre que le modèle Random Forest présente une excellente capacité de discrimination entre les individus malades et non malades. La courbe se situe très au-dessus de la diagonale du hasard, indiquant que le modèle réalise des prédictions nettement supérieures à une classification aléatoire. La valeur de l’AUC, égale à 0.995, confirme cette performance remarquable : le modèle distingue presque parfaitement les deux classes, avec un taux élevé de vrais positifs pour un taux très faible de faux positifs. Ces résultats montrent que le modèle est particulièrement efficace pour la détection de la maladie cardiaque dans ce jeu de données.
 
-### 9.4 Heatmap de corrélation
+### 8.4 Heatmap de corrélation
 <img width="787" height="687" alt="image" src="https://github.com/user-attachments/assets/81f13633-4007-4ed3-be76-714241088c3d" />
 
 
