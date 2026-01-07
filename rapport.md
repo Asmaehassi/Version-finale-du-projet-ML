@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://github.com/Asmaehassi/Version-finale/blob/main/LA%20PHOTO.jpeg" alt="Photo étudiante" width="100"/>
-</p>
+
 
 <p align="right">
   <img src="https://github.com/Asmaehassi/Version-finale/blob/main/logo%20(2).png" alt="Logo ENCG Settat" width="120"/>
@@ -10,17 +8,34 @@
 
 
 ---
-
 #  Rapport de projet
 
-**Titre du projet :** Détection du  risque de maladie cardiaque
+<h1>Détection du risque de maladie cardiaque</h1>
+<br><br>
+<br><br><br>
 
-**Rapport machine learning : Détection du risque
-de maladie cardiaque**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asmaehassi/Version-finale/main/pg.png"
+       alt="Image de la page de garde"
+       width="400"/>
+</p>
 
-**Elaboré par :** Asmae Hassi  
-**Numéro Apogée :** 24010417  
+
+
+
+
+**Elaboré par :** Asmae Hassi
+
+**Numéro apogée :** 24010417
+
 **Encadré par :** Pr.LARHLIMI
+
+<strong>Année universitaire :</strong><br>
+2025 / 2026
+
+<p align="right"> <img src="https://github.com/Asmaehassi/Version-finale/blob/main/LA%20PHOTO.jpeg" alt="Photo étudiante" width="110"/></p> 
+
+ 
 
 
 
