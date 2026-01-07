@@ -1,10 +1,8 @@
 
 
 <p align="right">
-  <img src="https://github.com/Asmaehassi/Version-finale/blob/main/logo%20(2).png" alt="Logo ENCG Settat" width="120"/>
+  <img src="https://github.com/Asmaehassi/24010417VF/blob/main/Version%20Finale/logo%20(2).png" width="120"/>
 </p>
-
-
 
 
 ---
@@ -15,10 +13,9 @@
 <br><br><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asmaehassi/Version-finale/main/pg.png"
-       alt="Image de la page de garde"
-       width="400"/>
+  <img src="https://github.com/Asmaehassi/24010417VF/blob/main/Version%20Finale/pg.png" width="380"/>
 </p>
+
 
 
 
